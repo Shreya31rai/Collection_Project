@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author loki
+ *
+ */
+module Collectionproject {
+}
